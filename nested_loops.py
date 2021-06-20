@@ -56,7 +56,7 @@ somar_dois_numeros1()
 Ao inves de criar um para cada compile
 Marcos, Ronaldo e Linda. Atribuimos uma 
 função para simplificar.
-
+'''
 def boas_vindas(nome, quantidade):
   print(f'Olá {nome}.')
   print(f'Temos {str(quantidade)} laptops em estoques')
@@ -65,7 +65,7 @@ boas_vindas('Marcos', 5)
 boas_vindas('Ronaldo', 4)
 boas_vindas('Linda', 2) 
 
-'''
+
 
 
 
